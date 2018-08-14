@@ -1,0 +1,3 @@
+Вопросы по ManageApplication.
+
+1. GetUserList. Возвращает абонента 2 раза. Один раз с HasAccess=false и один раз с HasAccess=true.
